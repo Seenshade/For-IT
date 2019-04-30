@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\seens\desktop\для практики\пр. задание №1\task5.c\task5.c</FILEPATH>
+      <FILENAME>task5_main.c</FILENAME>
+      <LINE>8</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Возвращаемое значение пропущено: "scanf".</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>4</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>
